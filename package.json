@@ -1,0 +1,6 @@
+{
+  "name": "05-track-forge",
+  "private": false,
+  "packageManager": "pnpm@11.7.0",
+  "scripts": {}
+}
